@@ -1,0 +1,7 @@
+//write the substrings of the func_button names you want to search for in plaintext, 1 per line
+admin
+stage
+lvl
+level
+kill
+nuke
