@@ -109,7 +109,7 @@ public Action Menu_AdminButtons(int iClient, int iArgs)
 	char sButtonInt[16];
 	Menu menu = new Menu(GenericHandler, MENU_ACTIONS_ALL);
 	menu.SetTitle("Admin Buttons:");
-	for (int i = 0; i <= g_iButNum; i++)
+	for (int i = 0; i < g_iButNum; i++)
 	{
 		IntToString(g_iButtons[i], sButtonInt, sizeof(sButtonInt));
 		menu.AddItem(sButtonInt, g_sButtons[i]);
