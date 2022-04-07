@@ -4,10 +4,10 @@
 public Plugin myinfo =
 {
 	name = "Admin Buttons",
-	author = "PikaJew",
+	author = "Peak",
 	description = "List map buttons in the admin menu",
 	version = "1.5",
-	url = "https://steamcommunity.com/id/AWildPikaJew/"
+	url = "https://steamcommunity.com/id/PeakKissShot/"
 };
 
 StringMap g_Buttons;
